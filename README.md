@@ -120,19 +120,6 @@ The program will:
 
 ---
 
-## Project Structure
-
-```
-House-Price-Prediction/
-│
-├── house_price_prediction.py
-├── house_price_model.pkl
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## Sample Output
 
 ```
